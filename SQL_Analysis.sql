@@ -50,6 +50,7 @@ FROM payments
 GROUP BY month
 ORDER BY month;
 
+
 -- Tax Type Contribution Analysis
 SELECT 
     t.tax_type_name,
@@ -59,6 +60,7 @@ JOIN tax_assessments a ON p.assessment_id = a.assessment_id
 JOIN tax_types t ON a.tax_type_id = t.tax_type_id
 GROUP BY t.tax_type_name
 ORDER BY total_collected DESC;
+
 
 -- Enforcement Trigger Identification
 SELECT 
