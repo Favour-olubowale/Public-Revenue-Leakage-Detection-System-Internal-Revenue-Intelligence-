@@ -1,0 +1,27 @@
+# Simulated Public Revenue Leakage Detection System
+
+Objective
+
+This project simulates a government-level tax intelligence system designed to detect:
+-Revenue leakage
+-Tax underpayment
+-Compliance failure
+-Duplicate taxpayer identities
+
+It demonstrates advanced SQL skills used in financial auditing and public sector analytics.
+cdcdfd
+## Features
+- Feature 1
+- Feature 2
+
+## Installation
+Steps to install and run the project.
+
+## Usage
+Explain how to use it.
+
+## Contributing
+Guidelines for contributing.
+
+## License
+Your license info.
