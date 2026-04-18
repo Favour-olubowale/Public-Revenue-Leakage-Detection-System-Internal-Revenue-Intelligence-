@@ -22,6 +22,7 @@ Tax revenue systems often suffer from:
 - Underpayment of taxes
 - Weak compliance tracking
 - Duplicate taxpayer identities
+
 This system builds a structured SQL framework to detect and analyze these issues
 
 ## Tools Used
