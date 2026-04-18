@@ -1,4 +1,4 @@
-Total Expected vs Actual Revenue (Leakage Detection)
+-- Total Expected vs Actual Revenue
 SELECT 
     t.tax_type_name,
     SUM(a.assessed_amount) AS total_expected,
