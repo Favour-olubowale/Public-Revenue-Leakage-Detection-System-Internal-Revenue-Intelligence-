@@ -13,6 +13,7 @@ This project simulates a government level tax intelligence system designed to de
 - Tax underpayment
 - Compliance failure
 - Duplicate taxpayer identities
+
 It demonstrates advanced SQL skills used in financial auditing and public sector analytics
 
 ## Problem Statement
