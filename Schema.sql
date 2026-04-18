@@ -1,6 +1,6 @@
 -- =========================================
 -- DATABASE SCHEMA
--- Public Revenue Leakage Detection System
+-- Simulated Public Revenue Leakage Detection System
 -- =========================================
 
 -- 1. Taxpayers Table
