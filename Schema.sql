@@ -1,7 +1,5 @@
--- =========================================
 -- DATABASE SCHEMA
 -- Simulated Public Revenue Leakage Detection System
--- =========================================
 
 -- 1. Taxpayers Table
 CREATE TABLE taxpayers (
